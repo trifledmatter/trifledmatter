@@ -26,8 +26,6 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 
----
-
 ## Here's what i'm currently working on — Gradison
 
 > My hope with Gradison is to release AI-integrated software out into the world that people will find ease in using. I'm starting out with my improvised take on a new modern-era search engine, which leverages AI to provide summaries of the links it provides.
