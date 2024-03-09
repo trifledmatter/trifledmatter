@@ -1,5 +1,4 @@
-[!bg](https://github.com/trifledmatter/trifledmatter/assets/145210504/6b829364-caca-4bca-999b-dd3a9128ff93)
-
+<img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6e753961-74c6-4ba7-8388-aae54434fdb6](https://github.com/trifledmatter/trifledmatter/assets/145210504/6b829364-caca-4bca-999b-dd3a9128ff93" style="border-radius: 1em; width: 100%;" />
 ---
 ## About Me
 
@@ -41,7 +40,7 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 > The following is a concept trailer I made for the project. This was the first of my works in Adobe After Effects. Clicking on this image will link you to the trailer video, with credits to the song I used.
 
 <a href="https://www.youtube.com/watch?v=v_-jSPeK1Cw" style="">
-  <img src="" style="border-radius: 1em; width: 100%;" />
+  <img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6e753961-74c6-4ba7-8388-aae54434fdb6" style="border-radius: 1em; width: 100%;" />
 </a>
 
 ---
