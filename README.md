@@ -11,28 +11,24 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 ## Languages and Tools
 
 <div style="display: flex; width: 100%; flex-wrap: wrap; justify-content: flex-start; margin-top: 8px; padding-bottom: 12px;">
-<img align="left" alt="Java" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px ;flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="left" alt="Java" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img align="left" alt="Angular" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+  <img align="left" alt="Git" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" alt="Linux" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="left" alt="React" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="Python" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img align="left" alt="C++" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+  <img align="left" alt="GitHub" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" alt="Bash" width="30px" style="padding-right:10px ;flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
 
 ---
-
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/v_-jSPeK1Cw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen /> -->
-
-<br />
 
 ## Here's what i'm currently working on — Gradison
 
@@ -40,13 +36,11 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 
 > The following is a concept trailer I made for the project. This was the first of my works in Adobe After Effects. Clicking on this image will link you to the trailer video, with credits to the song I used.
 
-<a href="https://www.youtube.com/watch?v=v_-jSPeK1Cw" style="">
+<a href="https://www.youtube.com/watch?v=v_-jSPeK1Cw">
   <img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6e753961-74c6-4ba7-8388-aae54434fdb6" style="border-radius: 1em; width: 100%;" />
 </a>
 
 ---
-
-<br />
 
 ## Currently learning or have learned:
 - Deep Learning Architectures:
@@ -61,7 +55,7 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 - Object Detection and Recognition
 - Image Segmentation
 
-<br />
+---
 
 ## Project Honorable Mentions
 (Closed Source) - **MxA LLaM 196B**
