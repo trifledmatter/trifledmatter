@@ -1,5 +1,5 @@
-<div style="width: 100%; height: 200px; overflow: hidden; position: relative; border-radius: 1em;">
-    <img src="./media/bg.gif" alt="background banner" style="width: 100%; height: 100%; object-fit: cover;
+<div style="width: 100%; height: 200px; overflow: hidden; position: relative;;">
+    <img src="./media/bg.mp4" alt="background banner" style="width: 100%; height: 100%; object-fit: cover;
     filter: hue-rotate(190deg) brightness(0.5) blur(5px);">
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 32px; font-weight: 600; text-align: center;">
         <span>trifledmatter</span>
@@ -10,6 +10,8 @@
 ## About Me
 
 I'm an 17-year-old Computer Science & Entrepreneurship student with a strong passion for Machine Learning (ML), Full-Stack Web Development, and Software Development. I'm constantly seeking new ways to leverage both artificial intelligence and my skill in programming to solve real-world problems. 
+
+
 
 ---
 ## Languages and Tools
