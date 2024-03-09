@@ -30,6 +30,11 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 
 ---
 
+<br />
+<br />
+<br />
+<br />
+
 ## Here's what i'm currently working on — Gradison
 
 > My hope with Gradison is to release AI-integrated software out into the world that people will find ease in using. I'm starting out with my improvised take on a new modern-era search engine, which leverages AI to provide summaries of the links it provides.
