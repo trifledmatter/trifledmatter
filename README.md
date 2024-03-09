@@ -1,4 +1,4 @@
-<img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6b829364-caca-4bca-999b-dd3a9128ff93" style="border-radius: 1em; width: 100%;" />
+<img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6b829364-caca-4bca-999b-dd3a9128ff93" style="border-radius: 1em; width: 30em;" />
 
 ---
 ## About Me
