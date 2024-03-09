@@ -10,7 +10,7 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 ---
 ## Languages and Tools
 
-<div style="display: flex; width: 100%; flex-wrap: wrap; justify-content: flex-start; margin-top: 8px; padding-bottom: 12px;">
+<div style="width: 100%; justify-content: flex-start; margin-top: 8px; padding-bottom: 12px;">
   <img align="left" alt="Java" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="left" alt="TypeScript" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align="left" alt="Angular" width="30px" style="padding-right:10px; flex: 1 1 auto; width: 10%; margin-top: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -29,11 +29,6 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 
 
 ---
-
-<br />
-<br />
-<br />
-<br />
 
 ## Here's what i'm currently working on — Gradison
 
