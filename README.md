@@ -31,12 +31,6 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 
 > My hope with Gradison is to release AI-integrated software out into the world that people will find ease in using. I'm starting out with my improvised take on a new modern-era search engine, which leverages AI to provide summaries of the links it provides.
 
-> The following is a concept trailer I made for the project. This was the first of my works in Adobe After Effects. Clicking on this image will link you to the trailer video, with credits to the song I used.
-
-<a href="https://www.youtube.com/watch?v=v_-jSPeK1Cw">
-  <img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6e753961-74c6-4ba7-8388-aae54434fdb6" style="border-radius: 1em; width: 100%;" />
-</a>
-
 <br />
 <div></div>
 <br />
