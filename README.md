@@ -1,4 +1,4 @@
-<img src="https://github.com/trifledmatter/trifledmatter/assets/145210504/6b829364-caca-4bca-999b-dd3a9128ff93" style="border-radius: 1em; width: 100em;" />
+<img src="https://github.com/trifledmatter/trifledmatter/blob/main/media/trifledmatter-banner-slim.png?raw=true" style="border-radius: 1em; width: 100em;" />
 
 ---
 ## About Me
@@ -22,14 +22,6 @@ I'm an 17-year-old Computer Science & Entrepreneurship student with a strong pas
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
-<br />
-<div></div>
-<br />
-
-## Here's what i'm currently working on — Gradison
-
-> My hope with Gradison is to release AI-integrated software out into the world that people will find ease in using. I'm starting out with my improvised take on a new modern-era search engine, which leverages AI to provide summaries of the links it provides.
 
 <br />
 <div></div>
