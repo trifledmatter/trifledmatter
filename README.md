@@ -1,7 +1,7 @@
 <img src="https://github.com/trifledmatter/trifledmatter/blob/main/media/trifledmatter-banner-slim.png?raw=true" style="border-radius: 1em; width: 100em;" />
 
 ---
-> I'm an 17-year-old Computer Science & Entrepreneurship student with a strong passion for Machine Learning (ML), Full-Stack Web Development, and Software Development. I'm constantly seeking new ways to leverage both artificial intelligence and my skill in programming to solve real-world problems. 
+> I'm an 18-year-old Computer Science & Entrepreneurship student with a strong passion for Machine Learning (ML), Full-Stack Web Development, and Software Development. I'm constantly seeking new ways to leverage both artificial intelligence and my skill in programming to solve real-world problems. 
 
 
 ## Languages and Tools
