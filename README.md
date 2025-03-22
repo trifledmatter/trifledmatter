@@ -39,7 +39,7 @@
 - Image Segmentation
 
 ## Project Honorable Mentions
-(Closed Source) - **MxA LLaM 196B**
+(Closed Source) - **MxA LLaM**
 > MxA LLaM - Mixtral of Agents & Large Language-Action Model is a project I've finished I've taken existing open-source LLMs and putting them together into one big, smart model that boasts 196 billion parameters, and a reliable output with less hallucination. The result of which is a model that not only has a better understanding of what is being asked of it, contextually, but will also call functions it's given in response, if needed. Which is why i've decided to call it an action model.
 
 (Open Source) - Mycellium
