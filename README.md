@@ -40,7 +40,7 @@
 
 ## Project Honorable Mentions
 (Closed Source) - **MxA LLaM**
-> MxA LLaM - Mixtral of Agents & Large Language-Action Model is a project I've finished I've taken existing open-source LLMs and putting them together into one big, smart model that boasts 196 billion parameters, and a reliable output with less hallucination. The result of which is a model that not only has a better understanding of what is being asked of it, contextually, but will also call functions it's given in response, if needed. Which is why i've decided to call it an action model.
+> MxA LLaM - Mixtral of Agents & Large Language-Action Model is a project I've finished I've taken existing open-source LLMs and putting them together into one big, smart model that boasts a reliable output with less hallucination. The result of which is a model that not only has a better understanding of what is being asked of it, contextually, but will also call functions it's given in response, if needed. Which is why i've decided to call it an action model.
 
 (Open Source) - Mycellium
 > Mycellium was meant to be a fun project that I forced myself to create on the weekend. It uses OpenAI's whisper, and a few other libraries to listen for a user's request, and respond with a corresponding order. This was essentially the [Restaurant Drive Thru AI](https://www.wendys.com/blog/drive-thru-innovation-wendys-freshai) before the restaurant drive thru ai, I went around town and talked to fast-food store owners about implementing this sort of thing in their drive-thru. I was denied every time.
